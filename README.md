@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/146246689?v=4" alt="bilall001" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilall001" alt="bilall001" /></a> </p>
 
 - 🔭 I’m currently working on **LMS**
