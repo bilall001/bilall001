@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilall001" alt="bilall001" /></a> </p>
 
-- 🔭 I’m currently working on **LMS**
+- 🔭 I’m currently working on **CMS**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👯 I’m looking to collaborate on **More Development Projects**
 
