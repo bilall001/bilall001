@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxAZcneYjryETfuUnsbHDoqH9i1HbGQ0tAKYhk8YFEszF3EPR6ia8Scm1dqZU92wIycZs&usqp=CAU" width="400" align="right" alt="fuck you kamran">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilall001" alt="bilall001" /></a> </p>
 
 - 🔭 I’m currently working on **CMS**
 
